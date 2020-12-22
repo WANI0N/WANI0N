@@ -51,8 +51,17 @@
 ### Hi there, I'm Marek 👋
 
 ### Languages and Tools:
-[<img align="left" alt="AHK" width="26px" src="https://github.com/WANI0N/WANI0N/raw/main/attachments/AHK.png" />](https://www.autohotkey.com/)
-[<img align="left" alt="javascript" width="26px" src="https://github.com/WANI0N/WANI0N/raw/main/attachments/javascript.png" />](https://www.javascript.com/)
+[<img align="left" alt="AHK" width="35px" src="https://github.com/WANI0N/WANI0N/raw/main/attachments/AHK.png" />](https://www.autohotkey.com/)
+[<img align="left" alt="javascript" width="35px" src="https://github.com/WANI0N/WANI0N/raw/main/attachments/javascript.png" />](https://www.javascript.com/)
+[<img align="left" alt="git" width="35px" src="https://github.com/WANI0N/WANI0N/raw/main/attachments/git.png" />](https://git-scm.com/)
+[<img align="left" alt="mongodb" width="35px" src="https://github.com/WANI0N/WANI0N/raw/main/attachments/mongodb.png" />](https://www.mongodb.com/)
+[<img align="left" alt="powershell" width="35px" src="https://github.com/WANI0N/WANI0N/raw/main/attachments/powershell.png" />](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1)
+[<img align="left" alt="nodejs" width="35px" src="https://github.com/WANI0N/WANI0N/raw/main/attachments/nodejs.png" />](https://nodejs.org/en/)
+[<img align="left" alt="html" width="35px" src="https://github.com/WANI0N/WANI0N/raw/main/attachments/html.png" />](https://www.w3schools.com/html/)
+[<img align="left" alt="visualstudiocode" width="35px" src="https://github.com/WANI0N/WANI0N/raw/main/attachments/visualstudiocode.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="terminal" width="35px" src="https://github.com/WANI0N/WANI0N/raw/main/attachments/terminal.png" />](https://linuxcommand.org/)
+
+<br>
 
 ### *little about me*
 
