@@ -23,8 +23,8 @@
  - neural networks
  - machine learning
 
-### *little about me*
+### *little about me...*
 
-*I started working in Western Union in 2016 and after a year began developing an automation program during my free time for implementing [business rule screening](https://www.progress.com/faqs/corticon-faqs/what-is-a-business-rules-engine), narrative production and internal/external investigation. After my efficency went up to 500%, the application was adapted by the company and I was promoted to deploy it as a platform and manage it full time. Later I was given a team to manage and became a teamleader. The main feature of the platform is that changes can be made and published without entering the code. The application expanded to multiple offices around the world and has designated ticketing platform, automated tests and APIs. I received an award from CEO for this project.*
+*I started working in Western Union in 2016 and after a year began developing an automation program during my free time for implementing [business rule screening](https://www.progress.com/faqs/corticon-faqs/what-is-a-business-rules-engine), narrative production and internal/external investigation. After my effiecency went up to 500%, the application was adapted by the company and I was promoted to deploy it as a platform and manage it full time. Later, I was given a team to manage and became a team leader. The main feature of the platform is that changes can be made and published without entering the code. The application expanded to multiple offices around the world and has designated ticketing platform, automated tests and APIs. I received an award from the CEO for this project.*
 
 ![](attachments/award.jpg)
