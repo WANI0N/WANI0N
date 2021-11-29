@@ -1,8 +1,3 @@
-### Hi there, I'm Marek 👋
- - **FinTech Developer**
- - **Team Leader**
- - **Project Owner**
-
 ### Languages and Tools:
 [<img align="left" style="float: left; margin-right: 25px;" alt="javascript" width="35px" src="https://github.com/WANI0N/WANI0N/raw/main/attachments/javascript.png" />](https://www.javascript.com/)
 [<img align="left" style="float: left; margin-right: 25px;" alt="git" width="35px" src="https://github.com/WANI0N/WANI0N/raw/main/attachments/git.png" />](https://git-scm.com/)
